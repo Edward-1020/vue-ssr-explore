@@ -14,7 +14,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "vue": "2.5.13"
+    "vue": "2.5.13",
+    "vue-server-renderer": "^2.5.16"
   },
   "devDependencies": {
     "autoprefixer": "7.2.3",
